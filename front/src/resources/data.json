@@ -1,0 +1,15 @@
+{
+    "header":{
+        "name":"My Company",
+        "links": [
+            {
+                "text": "blog",
+                "url": "#"
+            },
+            {
+                "text": "youtube",
+                "url": "#"
+            }
+        ]
+    }
+}
