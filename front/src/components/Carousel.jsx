@@ -1,5 +1,5 @@
 export function Carousel(){
-    return (<div>
+    return (<div className="mx-3">
         <h1>Carousel</h1>
     </div>);
 }

@@ -11,5 +11,87 @@
                 "url": "#"
             }
         ]
-    }
+    },
+    "footer":[
+        {
+            "name": "Social",
+            "links": [
+                {
+                    "text": "Youtube",
+                    "url": "#"
+                },
+                {
+                    "text":"Twiter",
+                    "url": "#"
+                },
+                {
+                    "text":"Instagram",
+                    "url": "#"
+                },
+                {
+                    "text": "Facebook",
+                    "url": "#"
+                }
+            ]
+        },
+        {
+            "name": "Help",
+            "links": [
+                {
+                    "text": "Contact",
+                    "url": "#"
+                },
+                {
+                    "text":"Email",
+                    "url": "#"
+                },
+                {
+                    "text":"Privacy",
+                    "url": "#"
+                },
+                {
+                    "text": "Terms and conditions",
+                    "url": "#"
+                }
+            ]
+        }
+    ],
+    "prices": [
+        {
+            "title": "free",
+            "price": "$0",
+            "by": "month",
+            "textButton":"Sign for free",
+            "features":[
+                "10 users included",
+                "2GB",
+                "Email",
+                "Help Center cripto"
+            ]
+        },
+        {
+            "title": "pro",
+            "price": "$15",
+            "by": "month",
+            "textButton":"Get started",
+            "features":[
+                "20 users included",
+                "10GB",
+                "Priority Email",
+                "Help Center"
+            ]
+        },
+        {
+            "title": "enterprice",
+            "price": "$25",
+            "by": "month",
+            "textButton":"Contact",
+            "features":[
+                "30 users included",
+                "15GB",
+                "Phone Support",
+                "Help Center access"
+            ]
+        }
+    ]
 }
