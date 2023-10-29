@@ -6,7 +6,7 @@ function PriceCard({item}){
             <h4>{item.title}</h4>
         </div>
         <div className="card-body">
-            <h5 class="card-title">{item.price}</h5>
+            <h5 className="card-title">{item.price}</h5>
             <h3 className="card-text">{item.by}</h3>
             <ul className="list-unstyled">
                 {
